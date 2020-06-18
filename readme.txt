@@ -67,6 +67,7 @@ The locations in the script where the directory must be changed are marked with 
 
 2.B) Run the script “script_02_Local_PC_preparing_data_for_augmentation.ipynb” on your local machine:
 This will create sub directories where the images are going to be stored for the augmentation script to perform augmentation.
+
 2.C) Run the script “script_03_Local_PC_fish_augmentation_Natural_Con_dataset.m” on your local machine:
 This will perform data augmentation on the dataset, create a subdirectory called “augmented_data” that contains the augmented images.
 
